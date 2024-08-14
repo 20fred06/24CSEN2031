@@ -1,1 +1,1 @@
-Basics components of the computer
+# Basics components of the computer
